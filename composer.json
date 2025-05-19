@@ -1,5 +1,5 @@
 {
-    "name": "waapi/waapi-laravel-sdk",
+    "name": "zenkiapp/waapi-laravel-sdk",
     "description": "WaAPI Laravel Package",
     "keywords": [
         "WaAPI",
@@ -10,8 +10,8 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "WaAPI",
-            "email": "info@waapi.app",
+            "name": "Victor Prato",
+            "email": "admin@zenkiapp.com",
             "role": "Developer"
         }
     ],
